@@ -4,12 +4,13 @@ How I keep a pulse on React dev community and keep up with top industry trends  
 
 1. Stephen Grider 
 2. Dan Abromov 
-3. 
+3. React Blog 
 
 ##### Watching 
 
 Lerna
 React Server 
+Gatsby
 
 ##### Exploring
 
