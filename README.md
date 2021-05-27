@@ -21,5 +21,7 @@ State maangement
 redux TOOLING: redux query, redux toolkit, redux persist, reselctors
 context api 
 
+React and Typescript
+Props types flow 
 
 Fetching and caching data from an API 
