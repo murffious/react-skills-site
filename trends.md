@@ -9,14 +9,20 @@ How I keep a pulse on React dev community and keep up with top industry trends  
 ##### Watching 
 
 Lerna
+
 React Server 
+
 Gatsby
+
 
 ##### Exploring
 
 CSS Modules vs Styled components 
 
+SEO 
+
 ##### Learning
 
+NextJs
 GraphQl
 Lerna
