@@ -18,7 +18,8 @@ React Knowledge from super popular Interview Questions
 4. React Next js set up 
 
 State maangement 
-redux 
+redux TOOLING: redux query, redux toolkit, redux persist, reselctors
 context api 
+
 
 Fetching and caching data from an API 
