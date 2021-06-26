@@ -1,9 +1,9 @@
 # react-skills-site
-Prospective Employers Can See My React Skills
+Prospective Employers Can See My React Skills - basically a minified focused version of something like the react dev roadmap
 
 React EcoSystem
 
-Eact v 16 hook s
+React v 16 hooks
 
 Redux
 Redux Thunk
@@ -17,11 +17,26 @@ React Knowledge from super popular Interview Questions
 3. React cra set up 
 4. React Next js set up 
 
-State maangement 
+State mangement 
 redux TOOLING: redux query, redux toolkit, redux persist, reselctors
 context api 
 
 React and Typescript
 Props types flow 
 
+
 Fetching and caching data from an API 
+https://redux-toolkit.js.org/rtk-query/api/created-api/hooks
+fetching, loading, status, response, data,
+
+Separation of Concerns
+Reducers --> manage state
+thunks --> side-effect logic 
+Selectors --> abstracting the state's format, transforming state data 
+
+
+Styles 
+Most popular 
+css modules --> benefits disadvantages
+styled-components
+
