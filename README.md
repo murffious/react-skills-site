@@ -40,3 +40,6 @@ Most popular
 css modules --> benefits disadvantages
 styled-components
 
+
+Best Practices for top scores on Lighthouse?
+
