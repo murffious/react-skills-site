@@ -9,6 +9,10 @@ Redux
 Redux Thunk
 Testing 
 
+architecture for scale reuse 
+state managment 
+data fetching
+
 React Setup/Configure - Webpack, Parcel, CRA
 React Knowledge from super popular Interview Questions
 
