@@ -35,11 +35,21 @@ thunks --> side-effect logic
 Selectors --> abstracting the state's format, transforming state data 
 
 
-Styles 
+Styles YT video on this 
 Most popular 
 css modules --> benefits disadvantages
 styled-components
 
 
 Best Practices for top scores on Lighthouse?
+
+
+best practices react blog post 
+
+react query and overall data fetching
+'loading' , 'fetching' , query , mutation,'not loading','re-fetching', error,  loaded,
+
+loading large lists 
+
+
 
