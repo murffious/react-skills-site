@@ -56,4 +56,7 @@ react query and overall data fetching
 loading large lists 
 
 
-
+Tracking loading state in order to show UI spinners
+Avoiding duplicate requests for the same data
+Optimistic updates to make the UI feel faster
+Managing cache lifetimes as the user interacts with the UI
