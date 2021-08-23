@@ -60,3 +60,4 @@ Tracking loading state in order to show UI spinners
 Avoiding duplicate requests for the same data
 Optimistic updates to make the UI feel faster
 Managing cache lifetimes as the user interacts with the UI
+Over the last couple years, the React community has come to realize that "data fetching and caching" is really a different set of concerns than "state management". While you can use a state management library like Redux to cache data, the use cases are different enough that it's worth using tools that are purpose-built for the data fetching use case.
